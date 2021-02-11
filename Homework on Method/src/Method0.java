@@ -33,7 +33,7 @@ public class Method0 {
 		 String in = input.nextLine();
 		return in;
 	}
-	//// This method prints your name, university ID, and major
+	// This method prints your name, university ID, and major
 	public static void All(){
 		Scanner input = new Scanner(System.in);
 	    System.out.println("Please write the following:");
